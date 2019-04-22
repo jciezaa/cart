@@ -7,7 +7,7 @@ https://www.anaconda.com/distribution/
  
 ## Clonar repositório
 
-                http://github.com/jciezaa/algoritmocart.git
+                https://github.com/jciezaa/cart.git
                 
 
 ## Iniciar CMD
